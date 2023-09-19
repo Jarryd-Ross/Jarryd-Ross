@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 I am a second year Mechatronics Student at the University of Waterloo. While my programming journey has only just started, I am very eager to learn more and deepen my knowledge on software development. 
-Currently, most of my experience lies in the fundamentals, OOP and teh basics of Data Structures and Algorithms. 
-I am most comfortable working with C and C++, but am also developing my knowledge in languages such as Python and JavaScript, frameworks like React.js and Node.js, and in front-end tools like CSS and HTML.
-Outside of school, I am a member of UW Midnight Sun's Firmware subteam [https://www.uwmidsun.com/] and use C to help develop control software to drive the electrical system of the car. 
+Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. 
+I am most comfortable working with C, C++, and Python, but am also developing my knowledge in languages such as JavaScript, frameworks like React.js and Node.js, and in front-end tools like CSS and HTML. 
+I am very interested in the field of ML/AI, and thus am enrolled in online courses to develop my understanding and skills of the foundational concepts.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Javascript, HTML,CSS**
+
+- 🌱 I’m currently learning **ML/AI Concepts**
 
 - 📫 How to reach me **jr2ross@uwaterloo.ca**
 
