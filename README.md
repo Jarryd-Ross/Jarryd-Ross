@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a second year Mechatronics Student at the University of Waterloo. While my programming journey has only just started, I am very eager to learn more and deepen my knowledge on software development. 
+I am a second year Mechatronics Student at the University of Waterloo. While my programming journey has only just started, I am very eager to learn more and deepen my knowledge in software development. 
 Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. 
-I am most comfortable working with C, C++, and Python, but am also developing my knowledge in languages such as JavaScript, frameworks like React.js and Node.js, and in front-end tools like CSS and HTML. 
-I am very interested in the field of ML/AI, and thus am enrolled in online courses to develop my understanding and skills of the foundational concepts.
+I have working experience in a C# and .NET environment from a previous co-op as software developer at Sunwing.
+Additionnally, I am comfortable working with C, C++, and Python, languages I have picked up from school work and personal projects. I am looking to deepen my knolwedge of databases and SQL, but am open to any concepts used in back-end software development. 
 
 
 - 🌱 I’m currently learning **ML/AI Concepts**
