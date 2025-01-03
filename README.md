@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 I am a second year Mechatronics Student at the University of Waterloo. While my programming journey has only just started, I am very eager to learn more and deepen my knowledge in software development. 
-Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. 
-I have working experience in a C# and .NET environment from a previous co-op as software developer at Sunwing. Additionally, I have experience working as a Data Enginneer and DevOps Engineer working at Inuitive.Cloud working as a AppMod Engineer.
+Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms.
+Working Experience:
+- C# and .NET environment as software developer at Sunwing. 
+- working as a Data Enginneer and DevOps Engineer working at Inuitive.Cloud working as a AppMod Engineer.
 I am comfortable working with C, C++, Python, and SQL; languages I have picked up from school work and personal projects. 
-I am looking to 
 
 
 - 📫 How to reach me **jr2ross@uwaterloo.ca**
