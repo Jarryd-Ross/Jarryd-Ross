@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a second year Mechatronics Student at the University of Waterloo. While my programming journey has only just started, I am very eager to learn more and deepen my knowledge in software development. 
+I am a third year Mechatronics Student at the University of Waterloo. While my programming journey has only just started, I am very eager to learn more and deepen my knowledge in software development. 
 Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. I am comfortable working with C, C++, Python, and SQL; languages I have picked up from school work and personal projects. 
 
 Working Experience:
