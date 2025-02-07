@@ -4,8 +4,9 @@ I am a third year Mechatronics Student at the University of Waterloo. While my p
 Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. I am comfortable working with C, C++, Python, and SQL; languages I have picked up from school work and personal projects. 
 
 Working Experience:
-- C# and .NET environment as software developer at Sunwing
-- working as a Data and DevOps Engineer working at Inuitive.Cloud
+- Junior Support Centre Analyst at Sunwing
+- Software Developer Intern at Sunwing
+- Data/DevOps Engineer working at Inuitive.Cloud
 
 Looking mainly for Data Engineering internships, however I am open to back-end and DevOps internships as well.
 
