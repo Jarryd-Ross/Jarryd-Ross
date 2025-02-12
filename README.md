@@ -7,7 +7,7 @@ Working Experience:
 - Junior Support Centre Analyst at Sunwing
 - Software Developer Intern at Sunwing
 - Data/DevOps Engineer working at Inuitive.Cloud
-- Software Developer Intern at Sony Interactive Entertainment
+- Software Developer Intern at Sony Interactive Entertainment - Playstation
 
 Looking mainly for Data Engineering internships, however I am open to back-end and DevOps internships as well.
 
