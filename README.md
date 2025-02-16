@@ -9,6 +9,9 @@ Working Experience:
 - Data/DevOps Engineer working at Inuitive.Cloud
 - Software Developer Intern at Sony Interactive Entertainment - Playstation
 
+Certifications:
+- AWS Certified Solutions Architect - Associate
+
 Looking mainly for Data Engineering internships, but also open to back-end and DevOps internships as well.
 
 📫 How to reach me **jr2ross@uwaterloo.ca**
