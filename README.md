@@ -6,7 +6,7 @@ Currently, most of my experience lies in the fundamentals, OOP and Data Structur
 Working Experience:
 - Junior Support Centre Analyst at Sunwing
 - Software Developer Intern at Sunwing
-- Data/DevOps Engineer working at Inuitive.Cloud
+- Data/DevOps Engineer working at Intuitive.Cloud
 - Software Developer Intern at Sony Interactive Entertainment - Playstation
 
 Certifications:
