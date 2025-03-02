@@ -12,7 +12,7 @@ Working Experience:
 Certifications:
 - AWS Certified Solutions Architect - Associate
 
-Looking mainly for Data Engineering internships, but also open to back-end and DevOps internships as well.
+Looking mainly for Data Engineering internships, but also open to Back-End and DevOps internships as well.
 
 📫 How to reach me **jr2ross@uwaterloo.ca**
 
