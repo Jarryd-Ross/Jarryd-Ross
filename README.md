@@ -3,7 +3,7 @@
 I am a third year Mechatronics Engineering student at the University of Waterloo, who is very eager to learn more and sharpen my skills. 
 Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. I am comfortable working with C, C++, Python, and SQL; languages I have picked up from school work and personal projects. 
 
-Working Experience:
+Work Experience:
 - Junior Support Centre Analyst at Sunwing
 - Software Developer Intern at Sunwing
 - Data/DevOps Engineer working at Intuitive.Cloud
