@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 I am a third year Mechatronics Engineering student at the University of Waterloo, who is eager to learn more and sharpen my skills. 
-Currently, most of my experience lies in the fundamentals, OOP and Data Structures and Algorithms. I am comfortable working with C, C++, Python, and SQL; languages I have picked up from school work and personal projects. 
+I am comfortable working with Java, Python, C, C++, and SQL; languages I have picked up from school work and personal projects. 
 
 Work Experience:
-- Junior Support Centre Analyst at Sunwing
-- Software Developer Intern at Sunwing
-- Data/DevOps Engineer working at Intuitive.Cloud
-- Software Developer Intern at Sony Interactive Entertainment - Playstation
+- Junior Support Centre Analyst at Sunwing (S23)
+- Software Developer Intern at Sunwing (W24)
+- Data/DevOps Engineer working at Intuitive.Cloud (F24)
+- 2x Software Developer Intern at Sony Interactive Entertainment - Playstation (S25, W26)
 
 Certifications:
 - AWS Certified Solutions Architect - Associate
+- DeepLearning.AI Data Engineering 
 
-Looking mainly for Data Engineering internships, but also open to Back-End and DevOps internships as well.
+Looking mainly for Data Engineering internships, but also open to Backend and DevOps internships as well.
 
 📫 How to reach me **jr2ross@uwaterloo.ca**
 
