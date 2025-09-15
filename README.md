@@ -6,12 +6,12 @@ I am comfortable working with Java, Python, C, C++, and SQL; languages I have pi
 Work Experience:
 - Junior Support Centre Analyst at Sunwing (S23)
 - Software Developer Intern at Sunwing (W24)
-- Data/DevOps Engineer working at Intuitive.Cloud (F24)
-- 2x Software Developer Intern at Sony Interactive Entertainment - Playstation (S25, W26)
+- Data/DevOps Engineer at Intuitive.Cloud (F24)
+- 2x Software Developer Intern at Sony Interactive Entertainment - PlayStation (S25, Incoming W26)
 
 Certifications:
 - AWS Certified Solutions Architect - Associate
-- DeepLearning.AI Data Engineering 
+- DeepLearning.AI Data Engineering Specialization
 
 Looking mainly for Data Engineering internships, but also open to Backend and DevOps internships as well.
 
