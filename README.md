@@ -7,7 +7,7 @@ Work Experience:
 - Junior Support Centre Analyst at Sunwing (S23)
 - SWE Intern at Sunwing (W24)
 - DataOps Engineer at Intuitive.Cloud (F24)
-- 2x SWE Intern at Sony Interactive Entertainment - PlayStation (S25, Incoming W26)
+- 2x SWE Intern at Sony Interactive Entertainment - PlayStation (S25, W26)
 
 Certifications:
 - AWS Certified Solutions Architect - Associate
