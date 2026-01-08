@@ -13,8 +13,6 @@ Certifications:
 - AWS Certified Solutions Architect - Associate
 - DeepLearning.AI Data Engineering Specialization
 
-Looking mainly for Data Engineering internships, but also open to Backend and DevOps internships as well.
-
 📫 How to reach me **jr2ross@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
