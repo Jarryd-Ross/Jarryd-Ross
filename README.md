@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a third year Mechatronics Engineering student at the University of Waterloo, who is eager to learn more and sharpen my skills. 
-I am comfortable working with Java, Python, C, C++, and SQL; languages I have picked up from work, school, and/or personal projects. 
+I am comfortable working with Java, Python, C++, and SQL; languages I have picked up from work, school, and/or personal projects. 
 
 Work Experience:
 - Junior Support Centre Analyst at Sunwing (Summer 2023)
