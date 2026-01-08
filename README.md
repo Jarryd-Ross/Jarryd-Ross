@@ -4,16 +4,16 @@ I am a third year Mechatronics Engineering student at the University of Waterloo
 I am comfortable working with Java, Python, C, C++, and SQL; languages I have picked up from work, school, and/or personal projects. 
 
 Work Experience:
-- Junior Support Centre Analyst at Sunwing (S23)
-- SWE Intern at Sunwing (W24)
-- DataOps Engineer at Intuitive.Cloud (F24)
-- 2x SWE Intern at Sony Interactive Entertainment - PlayStation (S25, W26)
+- Junior Support Centre Analyst at Sunwing (Summer 2023)
+- SWE Intern at Sunwing (Winter 2024)
+- DataOps Engineer at Intuitive.Cloud (Fall 2024)
+- 2x SWE Intern at Sony - PlayStation (Summer 2025, Winter 2026)
 
 Certifications:
 - AWS Certified Solutions Architect - Associate
 - DeepLearning.AI Data Engineering Specialization
 
-📫 How to reach me **jr2ross@uwaterloo.ca**
+How to reach me **jr2ross@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
