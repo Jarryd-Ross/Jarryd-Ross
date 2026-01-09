@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Jarryd Ross! 👋
 
 I am a third year Mechatronics Engineering student at the University of Waterloo, who is eager to learn more and sharpen my skills. 
 I am comfortable working with Java, Python, C++, and SQL; languages I have picked up from work, school, and/or personal projects. 
