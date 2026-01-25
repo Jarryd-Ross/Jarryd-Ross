@@ -1,6 +1,7 @@
 ### Hello, I'm Jarryd Ross! 👋
 
 I am an incoming 4th year Mechatronics Engineering student at the University of Waterloo with an interest in building practical, data-driven software systems. 
+
 I’ve worked with Java, Python, C++, and SQL through school, internships, and personal projects, and I’m always looking to keep learning and improving.
 Work Experience:
 - Junior Support Centre Analyst at Sunwing (Summer 2023)
