@@ -6,7 +6,7 @@ Work Experience:
 - Junior Support Centre Analyst at Sunwing (Summer 2023)
 - SWE Intern at Sunwing (Winter 2024)
 - DataOps Engineer at Intuitive.Cloud (Fall 2024)
-- 2x SWE Intern at Sony - PlayStation (Summer 2025, Winter 2026)
+- 3x SWE Intern at Sony - PlayStation (Summer 2025, Winter 2026, Summer 2026)
 
 Certifications:
 - AWS Certified Solutions Architect - Associate
